@@ -1,7 +1,9 @@
 # bob-hackathon
 
 **AI-Powered Financial Wellness Suite**
+
 Our AI-driven financial wellness suite is a comprehensive platform designed to revolutionize personal finance management. By leveraging Azure's platform to inncorporate AI and machine learning technologies, we offer a unique, personalized approach to financial health.
+
 **What We Do**
 We empower users to take control of their financial lives through an intuitive, adaptive interface that grows with them. Our suite combines several key features:
 
